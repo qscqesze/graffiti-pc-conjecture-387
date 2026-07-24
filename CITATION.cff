@@ -3,7 +3,8 @@ message: "If you use this proof, please cite it using the metadata below."
 title: "The 2-Domination Number and the Upper Median Degree: A Proof of Graffiti.pc Conjecture 387"
 type: dataset
 authors:
-  - family-names: "JunQing"
+  - given-names: "Jun"
+    family-names: "Qing"
 date-released: 2026-07-24
 abstract: >-
   A proof that the 2-domination number of every nonempty finite simple graph G
@@ -18,6 +19,7 @@ keywords:
 preferred-citation:
   type: article
   authors:
-    - family-names: "JunQing"
+    - given-names: "Jun"
+      family-names: "Qing"
   title: "The 2-Domination Number and the Upper Median Degree: A Proof of Graffiti.pc Conjecture 387"
   year: 2026

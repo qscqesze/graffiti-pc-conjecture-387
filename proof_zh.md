@@ -1,6 +1,6 @@
 # 2-支配数与上中位度：Graffiti.pc 猜想 387 的一个证明
 
-作者：JunQing
+作者：Jun Qing（卿俊）
 
 ## 摘要
 

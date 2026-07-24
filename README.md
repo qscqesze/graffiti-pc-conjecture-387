@@ -1,6 +1,6 @@
 # Graffiti.pc 猜想 387 的一个证明
 
-本仓库收录 JunQing 对 Graffiti.pc 猜想 387 的证明，以及该证明的中文翻译，方便阅读和引用。
+本仓库收录 Jun Qing 对 Graffiti.pc 猜想 387 的证明，以及该证明的中文翻译，方便阅读和引用。
 
 ## 主要结论
 
@@ -27,7 +27,7 @@ $$
 ## 文件
 
 - [中文证明](./proof_zh.md)
-- [英文原稿 PDF](./paper/graffiti387_JunQing.pdf)
+- [英文原稿 PDF](./output/pdf/graffiti387_Jun_Qing.pdf)
 
 ## 如何引用
 
@@ -35,7 +35,7 @@ GitHub 会读取仓库根目录下的 [`CITATION.cff`](./CITATION.cff)。在仓�
 
 建议题名：
 
-> JunQing. *The 2-Domination Number and the Upper Median Degree: A Proof of Graffiti.pc Conjecture 387*. 2026.
+> Jun Qing. *The 2-Domination Number and the Upper Median Degree: A Proof of Graffiti.pc Conjecture 387*. 2026.
 
 ## 关键词
 
