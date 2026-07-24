@@ -1,42 +1,42 @@
-# Graffiti.pc 猜想 387 的一个证明
+# A Proof of Graffiti.pc Conjecture 387
 
-本仓库收录 Jun Qing 对 Graffiti.pc 猜想 387 的证明，以及该证明的中文翻译，方便阅读和引用。
+This repository contains Jun Qing's proof of Graffiti.pc Conjecture 387, together with a complete Chinese translation for easier reading and citation.
 
-## 主要结论
+## Main Result
 
-设 $G$ 是一个非空有限简单图，阶为 $n$。将它的度序列按非降序排列为
+Let $G$ be a nonempty finite simple graph of order $n$, with degree sequence arranged in nondecreasing order as
 
 $$
 d_1\le d_2\le\cdots\le d_n,
 $$
 
-并定义上中位度
+and define its upper median degree by
 
 $$
 m(G)=d_{\lfloor n/2\rfloor+1}.
 $$
 
-若 $\gamma_2(G)$ 表示 $G$ 的 2-支配数，则
+If $\gamma_2(G)$ denotes the 2-domination number of $G$, then
 
 $$
 \boxed{\gamma_2(G)\le n-m(G)+1}.
 $$
 
-这个结论证明了 Graffiti.pc 猜想 387，并且不需要原猜想中的连通性假设。
+This proves Graffiti.pc Conjecture 387. In fact, the result does not require the connectivity assumption in the original conjecture.
 
-## 文件
+## Files
 
-- [中文证明](./proof_zh.md)
-- [英文原稿 PDF](./output/pdf/graffiti387_Jun_Qing.pdf)
+- [Original proof (PDF)](./output/pdf/graffiti387_Jun_Qing.pdf)
+- [Chinese translation](./proof_zh.md)
 
-## 如何引用
+## Citation
 
-GitHub 会读取仓库根目录下的 [`CITATION.cff`](./CITATION.cff)。在仓库页面点击 **Cite this repository**，即可生成 BibTeX 或 APA 格式的引用。
+Citation metadata is provided in [`CITATION.cff`](./CITATION.cff). On the GitHub repository page, select **Cite this repository** to generate a BibTeX or APA citation.
 
-建议题名：
+Suggested citation:
 
 > Jun Qing. *The 2-Domination Number and the Upper Median Degree: A Proof of Graffiti.pc Conjecture 387*. 2026.
 
-## 关键词
+## Keywords
 
-2-支配、支配数、度序列、上中位度、Graffiti.pc、图论。
+2-domination, domination number, degree sequence, upper median degree, Graffiti.pc, graph theory.
