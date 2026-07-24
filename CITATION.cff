@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this proof, please cite it using the metadata below."
+title: "The 2-Domination Number and the Upper Median Degree: A Proof of Graffiti.pc Conjecture 387"
+type: dataset
+authors:
+  - family-names: "JunQing"
+date-released: 2026-07-24
+abstract: >-
+  A proof that the 2-domination number of every nonempty finite simple graph G
+  of order n satisfies gamma_2(G) <= n - m(G) + 1, where m(G) is the upper
+  median of its degree sequence.
+keywords:
+  - 2-domination
+  - domination number
+  - degree sequence
+  - upper median degree
+  - Graffiti.pc
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "JunQing"
+  title: "The 2-Domination Number and the Upper Median Degree: A Proof of Graffiti.pc Conjecture 387"
+  year: 2026
