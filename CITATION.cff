@@ -6,6 +6,7 @@ authors:
   - given-names: "Jun"
     family-names: "Qing"
 date-released: 2026-07-24
+repository-code: "https://github.com/qscqesze/graffiti-pc-conjecture-387"
 abstract: >-
   A proof that the 2-domination number of every nonempty finite simple graph G
   of order n satisfies gamma_2(G) <= n - m(G) + 1, where m(G) is the upper
