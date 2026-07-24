@@ -1,0 +1,22 @@
+name: Lean proof verification
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Reject proof placeholders and custom axioms
+        run: |
+          if grep -RInE --include='*.lean' '(^|[^A-Za-z])(sorry|admit|axiom)([^A-Za-z]|$)' Graffiti387 Graffiti387.lean; then
+            echo 'Forbidden proof placeholder or custom axiom found.'
+            exit 1
+          fi
+      - uses: leanprover/lean-action@v1
