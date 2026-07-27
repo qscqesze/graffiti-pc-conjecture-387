@@ -1,6 +1,7 @@
 # A Proof of Graffiti.pc Conjecture 387
 
 [![Lean proof verification](https://github.com/qscqesze/graffiti-pc-conjecture-387/actions/workflows/lean.yml/badge.svg)](https://github.com/qscqesze/graffiti-pc-conjecture-387/actions/workflows/lean.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21621226.svg)](https://doi.org/10.5281/zenodo.21621226)
 
 This repository contains Jun Qing's proof of Graffiti.pc Conjecture 387, a
 Chinese translation, and a complete machine-checked formalization in Lean 4.
@@ -68,8 +69,9 @@ APA citation.
 
 Suggested citation:
 
-> Jun Qing. *The 2-Domination Number and the Upper Median Degree: A Proof of
-> Graffiti.pc Conjecture 387*. 2026.
+> Qing, Jun. (2026). *The 2-Domination Number and the Upper Median Degree: A
+> Proof of Graffiti.pc Conjecture 387* (v1.0.0). Zenodo.
+> https://doi.org/10.5281/zenodo.21621226
 
 ## Keywords
 
