@@ -1,7 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this proof, please cite it using the metadata below."
 title: "The 2-Domination Number and the Upper Median Degree: A Proof of Graffiti.pc Conjecture 387"
-type: dataset
+type: software
+version: 1.0.0
 authors:
   - given-names: "Jun"
     family-names: "Qing"
